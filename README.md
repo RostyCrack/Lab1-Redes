@@ -32,5 +32,15 @@ Para empezar se agregan los siguientes componentes y se conectan:
 <img width="697" alt="Capture d’écran 2022-08-08 à 11 16 52" src="https://user-images.githubusercontent.com/78422799/183465001-d19f8871-3aca-41be-980b-188e079ccfb4.png">
 
 3. Configurar el router:
-3.1 
+3.1. Conectar el router con el módem por medio ded un cable dde cobre.
+
+3.2. Definir un nombre de red, la DNS y la Subnet Mask.
+
+<img width="884" alt="Capture d’écran 2022-08-08 à 11 22 01" src="https://user-images.githubusercontent.com/78422799/183466041-cb0e1fcd-72d7-40ad-985c-86196231b745.png">
+
+3.3. Definir el nombre de red y la clave.
+
+<img width="823" alt="Capture d’écran 2022-08-08 à 11 22 14" src="https://user-images.githubusercontent.com/78422799/183466160-75e29fbe-7bfa-43c9-9650-7b11bf4245aa.png">
+
+<img width="849" alt="Capture d’écran 2022-08-08 à 11 22 21" src="https://user-images.githubusercontent.com/78422799/183466179-d13e6c6f-883b-440b-9f72-bcdfe4e485b7.png">
 
