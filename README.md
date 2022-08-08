@@ -11,23 +11,26 @@ Para empezar se agregan los siguientes componentes y se conectan:
 
 1. Configurar el servidor:
 
-1.1 Agregar el gateway y el DNS de cisco en la sección config.
+1.1. Agregar el gateway y el DNS de cisco en la sección config.
 <img width="699" alt="Capture d’écran 2022-08-08 à 11 13 05" src="https://user-images.githubusercontent.com/78422799/183464015-39305323-116a-4106-96e1-d7e73dea1965.png">
 
-1.2 Configurar el servicio DHCP para que asigne las direcciones IP correctamente:
+1.2. Configurar el servicio DHCP para que asigne las direcciones IP correctamente:
 <img width="697" alt="Capture d’écran 2022-08-08 à 11 13 14" src="https://user-images.githubusercontent.com/78422799/183464183-73422c5a-1913-40d7-b7b4-fef301bfeda5.png">
 
-1.3 Agregar en la sección de DNS, la DNS de cisco.com junto a su nombre:
+1.3. Agregar en la sección de DNS, la DNS de cisco.com junto a su nombre:
 <img width="709" alt="Capture d’écran 2022-08-08 à 11 13 22" src="https://user-images.githubusercontent.com/78422799/183464403-a5bdee92-6148-464e-a92d-a020e6772b6a.png">
 
-1.4 Se conecta el servidor con la nube por meddio de un cable de cobre.
+1.4. Se conecta el servidor con la nube por meddio de un cable de cobre.
 
 
 2. Configurar la nube:
-2.1 Conectar el módem por medio de un cable coaxial.
-2.2 En la sección dde config buscar el puerto Ethernet donde está conectado el servidor y seleccionar cable.
+2.1. Conectar el módem por medio de un cable coaxial.
+2.2. En la sección dde config buscar el puerto Ethernet donde está conectado el servidor y seleccionar cable.
 <img width="703" alt="Capture d’écran 2022-08-08 à 11 16 58" src="https://user-images.githubusercontent.com/78422799/183464920-f8bf4960-0d3e-4f3a-9c50-119bd36ec7d2.png">
 
-2.3 Seleccionar el cable coaxial para que dirija hacia el servidor.
+2.3. Seleccionar el cable coaxial para que dirija hacia el servidor.
 <img width="697" alt="Capture d’écran 2022-08-08 à 11 16 52" src="https://user-images.githubusercontent.com/78422799/183465001-d19f8871-3aca-41be-980b-188e079ccfb4.png">
+
+3. Configurar el router:
+3.1 
 
