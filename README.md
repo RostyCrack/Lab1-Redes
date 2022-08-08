@@ -19,6 +19,7 @@ Para empezar se agregan los siguientes componentes y se conectan:
 
 1.3 Agregar en la sección de DNS, la DNS de cisco.com junto a su nombre:
 <img width="709" alt="Capture d’écran 2022-08-08 à 11 13 22" src="https://user-images.githubusercontent.com/78422799/183464403-a5bdee92-6148-464e-a92d-a020e6772b6a.png">
+
 1.4 Se conecta el servidor con la nube por meddio de un cable de cobre.
 
 
@@ -26,6 +27,7 @@ Para empezar se agregan los siguientes componentes y se conectan:
 2.1 Conectar el módem por medio de un cable coaxial.
 2.2 En la sección dde config buscar el puerto Ethernet donde está conectado el servidor y seleccionar cable.
 <img width="703" alt="Capture d’écran 2022-08-08 à 11 16 58" src="https://user-images.githubusercontent.com/78422799/183464920-f8bf4960-0d3e-4f3a-9c50-119bd36ec7d2.png">
+
 2.3 Seleccionar el cable coaxial para que dirija hacia el servidor.
 <img width="697" alt="Capture d’écran 2022-08-08 à 11 16 52" src="https://user-images.githubusercontent.com/78422799/183465001-d19f8871-3aca-41be-980b-188e079ccfb4.png">
 
