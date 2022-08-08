@@ -1,5 +1,5 @@
 # Lab1-Redes
-* Laboratorio 1: Crear una red básica. *
+Laboratorio 1: Crear una red básica.
 
 
 ¿Cómo permitir que Juanita Pérez y sus familiares puedan navegar por la página Web cisco.com, desde su casa, desde sus computadores personales y teléfonos celulares, utilizando una red y comunicación de datos?
@@ -44,3 +44,6 @@ Para empezar se agregan los siguientes componentes y se conectan:
 
 <img width="849" alt="Capture d’écran 2022-08-08 à 11 22 21" src="https://user-images.githubusercontent.com/78422799/183466179-d13e6c6f-883b-440b-9f72-bcdfe4e485b7.png">
 
+4. Dar acceso a los dispositivos conectándolos a la red, y definiendo el protocolo DHCP para asignar la IP.
+
+<img width="685" alt="Capture d’écran 2022-08-08 à 11 28 38" src="https://user-images.githubusercontent.com/78422799/183466981-b7554abc-6db5-4ec6-aa9d-82038b92f02a.png">
