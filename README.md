@@ -49,6 +49,9 @@ Para empezar se agregan los siguientes componentes y se conectan:
 
 <img width="685" alt="Capture d’écran 2022-08-08 à 11 28 38" src="https://user-images.githubusercontent.com/78422799/183466981-b7554abc-6db5-4ec6-aa9d-82038b92f02a.png">
 
+Topología de bus.
+Enrutamiento de congestión de red.
+
 Video:
 
 https://youtu.be/rqdbtgthtOU
