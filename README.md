@@ -2,6 +2,8 @@
 Laboratorio 1: Crear una red básica.
 
 
+Juan David Martínez, Santiango Barrera y Cristian Rosero
+
 ¿Cómo permitir que Juanita Pérez y sus familiares puedan navegar por la página Web cisco.com, desde su casa, desde sus computadores personales y teléfonos celulares, utilizando una red y comunicación de datos?
 
 
