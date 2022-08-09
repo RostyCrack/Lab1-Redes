@@ -24,6 +24,7 @@ Para empezar se agregan los siguientes componentes y se conectan:
 
 
 2. Configurar la nube:
+
 2.1. Conectar el módem por medio de un cable coaxial.
 2.2. En la sección dde config buscar el puerto Ethernet donde está conectado el servidor y seleccionar cable.
 <img width="703" alt="Capture d’écran 2022-08-08 à 11 16 58" src="https://user-images.githubusercontent.com/78422799/183464920-f8bf4960-0d3e-4f3a-9c50-119bd36ec7d2.png">
